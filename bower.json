@@ -1,16 +1,16 @@
 {
-  "name": "kaamelott-soundboard",
-  "description": "Quelques-unes des meilleures répliques sonores de Kaamelott. C'était ça ou chante Sloubi.",
+  "name": "giselle-soundboard",
+  "description": "Quelques-unes des meilleures répliques sonores de Giselle.",
   "main": "js/app/main.js",
   "authors": [
     "Antoine @2ec0b4"
   ],
   "license": "MIT",
   "keywords": [
-    "kaamelott",
+    "giselle",
     "soundboard"
   ],
-  "homepage": "https://github.com/2ec0b4/kaamelott-soundboard",
+  "homepage": "https://github.com/julien-langlois/giselle-soundboard",
   "private": true,
   "ignore": [
     "**/.*",
