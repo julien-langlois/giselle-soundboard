@@ -9,8 +9,8 @@ define("collections/sounds", function(require) {
         model: Sound,
         url: "/sounds/sounds.json",
         comparator: function(a, b) {
-            var str1 = a.get("title"),
-                str2 = b.get("title");
+            var str1 = a.get("file"),
+                str2 = b.get("file");
 
             return str1.localeCompare(str2);
         },
