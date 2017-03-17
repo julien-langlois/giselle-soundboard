@@ -2,19 +2,415 @@
     {
         "title": "Madame Léger",
         "character": "Giselle",
-        "episode": "Madame Léger",
+        "description": "Madame Léger",
         "file": "01_madame_leger.mp3"
+    },
+    {
+        "title": "En 2 mots ?",
+        "character": "Lagaf",
+        "description": "En 2 mots ?",
+        "file": "02_en_2_mots.mp3"
+    },
+    {
+        "title": "En 2 mots, Madame Léger",
+        "character": "Giselle",
+        "description": "En 2 mots, Madame Léger",
+        "file": "03_en_2_mots_madame_leger.mp3"
+    },
+    {
+        "title": "Mais votre prénom... ?",
+        "character": "Lagaf",
+        "description": "Mais votre prénom... ?",
+        "file": "04_mais_votre_prenom_en_lui_meme_est.mp3"
+    },
+    {
+        "title": "Giselle",
+        "character": "Giselle",
+        "description": "Giselle",
+        "file": "05_giselle.mp3"
+    },
+    {
+        "title": "Giselle vous êtes toute seule... ?",
+        "character": "Lagaf",
+        "description": "Giselle vous êtes toute seule... ?",
+        "file": "06_giselle_vous_etes_toute_seule_a_la_maison.mp3"
     },
     {
         "title": "Euh... oui enfin... euh.",
         "character": "Giselle",
-        "episode": "Euh... oui enfin... euh.",
+        "description": "Euh... oui enfin... euh.",
         "file": "07_euh_oui_enfin_euh.mp3"
+    },
+    {
+        "title": "D'accord",
+        "character": "Lagaf",
+        "description": "D'accord",
+        "file": "08_d'accord.mp3"
+    },
+    {
+        "title": "Vous faites quoi dans la vie ?",
+        "character": "Lagaf",
+        "description": "Vous faites quoi dans la vie ?",
+        "file": "09_vous_faites_quoi_dans_la_vie_giselle.mp3"
+    },
+    {
+        "title": "J'suis papetière.",
+        "character": "Giselle",
+        "description": "J'suis papetière.",
+        "file": "10_j'suis_papetiere.mp3"
     },
     {
         "title": "Elle est pas peu fière la papetière !",
         "character": "Lagaf",
-        "episode": "Elle est pas peu fière la papetière !",
+        "description": "Elle est pas peu fière la papetière !",
         "file": "11_ahh_elle_est_pas_peu_fiere_la_papetiere.mp3"
+    },
+    {
+        "title": "Vous êtes à table là ?",
+        "character": "Lagaf",
+        "description": "Vous êtes à table là ?",
+        "file": "12_vous_etes_a_table_la.mp3"
+    },
+    {
+        "title": "Euh non j'ai fini",
+        "character": "Giselle",
+        "description": "Euh non j'ai fini",
+        "file": "13_euh_non_j'ai_fini.mp3"
+    },
+    {
+        "title": "Vous avez fini de manger ou... ?",
+        "character": "Lagaf",
+        "description": "Vous avez fini de manger ou... ?",
+        "file": "14_vous_avez_fini_de_manger_ou.mp3"
+    },
+    {
+        "title": "Vous connaissez le Big Deal ?",
+        "character": "Lagaf",
+        "description": "Vous connaissez le Big Deal ?",
+        "file": "15_vous_connaissez_le_big_deal.mp3"
+    },
+    {
+        "title": "Moui",
+        "character": "Giselle",
+        "description": "Moui",
+        "file": "16_moui.mp3"
+    },
+    {
+        "title": "Vous le regargez de temps en temps ?",
+        "character": "Lagaf",
+        "description": "Vous le regargez de temps en temps ?",
+        "file": "17_vous_le_regardez_de_temps_en_temps.mp3"
+    },
+    {
+        "title": "Oh presque tout le temps",
+        "character": "Giselle",
+        "description": "Oh presque tout le temps",
+        "file": "18_oh_presque_tout_le_temps.mp3"
+    },
+    {
+        "title": "La question elle est béton",
+        "character": "Lagaf",
+        "description": "La question elle est béton",
+        "file": "19_la_question_elle_est_beton.mp3"
+    },
+    {
+        "title": "Moui 2",
+        "character": "Giselle",
+        "description": "Moui 2",
+        "file": "20_moui.mp3"
+    },
+    {
+        "title": "Qu'est-ce que vous allez m'annoncer ?",
+        "character": "Giselle",
+        "description": "Qu'est-ce que vous allez m'annoncer ?",
+        "file": "21_qu'est_ce_que_vous_allez_m'annoncer_la.mp3"
+    },
+    {
+        "title": "Bougez pas Giselle j'm'occupe de tout",
+        "character": "Lagaf",
+        "description": "Bougez pas Giselle j'm'occupe de tout",
+        "file": "22_bougez_pas_gisele_j'moccupe_de_tout.mp3"
+    },
+    {
+        "title": "Avez-vous un papier et un crayon ?",
+        "character": "Lagaf",
+        "description": "Avez-vous un papier et un crayon ?",
+        "file": "23_giselle_avez_vous_un_papier_et_un_crayon.mp3"
+    },
+    {
+        "title": "Un papier et un crayon...",
+        "character": "Giselle",
+        "description": "Un papier et un crayon...",
+        "file": "24_un_papier_et_un_crayon.mp3"
+    },
+    {
+        "title": "Ouais... oui",
+        "character": "Giselle",
+        "description": "Ouais... oui",
+        "file": "25_ouais_oui.mp3"
+    },
+    {
+        "title": "Mettez-vous derrière le papier",
+        "character": "Lagaf",
+        "description": "Mettez-vous derrière le papier",
+        "file": "26_mettez_vous_derriere_le_papier.mp3"
+    },
+    {
+        "title": "Ouuuuuui",
+        "character": "Giselle",
+        "description": "Ouuuuuui",
+        "file": "27_houuai.mp3"
+    },
+    {
+        "title": "Quelle est la particularité d'un visage rubicon ?",
+        "character": "Lagaf",
+        "description": "Quelle est la particularité d'un visage rubicon ?",
+        "file": "28_quelle_est_la_particularite_d'un_visage_rubicon.mp3"
+    },
+    {
+        "title": "Quelle est la parcularité ?",
+        "character": "Giselle",
+        "description": "Quelle est la parcularité ?",
+        "file": "29_quelle_est_la_parcularite.mp3"
+    },
+    {
+        "title": "C'est une blague ou quoi ?",
+        "character": "Giselle",
+        "description": "C'est une blague ou quoi ?",
+        "file": "30_cest_une_blague_ou_quoi.mp3"
+    },
+    {
+        "title": "Non non Giselle je plaisante pas",
+        "character": "Lagaf",
+        "description": "Non non Giselle je plaisante pas",
+        "file": "31_non_non_giselle_je_plaisante_pas.mp3"
+    },
+    {
+        "title": "Posez votre bière Giselle !",
+        "character": "Lagaf",
+        "description": "Posez votre bière Giselle !",
+        "file": "32_posez_votre_biere_giselle.mp3"
+    },
+    {
+        "title": "OK Giselle ?",
+        "character": "Lagaf",
+        "description": "OK Giselle ?",
+        "file": "33_ok_giselle.mp3"
+    },
+    {
+        "title": "Oh ouais !",
+        "character": "Giselle",
+        "description": "Oh ouais !",
+        "file": "34_oh_ouais.mp3"
+    },
+    {
+        "title": "RU-BI-CON",
+        "character": "Giselle",
+        "description": "RU-BI-CON",
+        "file": "35_rubicon.mp3"
+    },
+    {
+        "title": "Voilà !",
+        "character": "Lagaf",
+        "description": "Voilà !",
+        "file": "36_voila.mp3"
+    },
+    {
+        "title": "Ah voilà !",
+        "character": "Giselle",
+        "description": "Ah voilà !",
+        "file": "37_ah_voila.mp3"
+    },
+    {
+        "title": "Qu'est-ce c'est c't'affaire ?",
+        "character": "Lagaf",
+        "description": "Qu'est-ce c'est c't'affaire ?",
+        "file": "38_qu'est_c'est_c't'affaire.mp3"
+    },
+    {
+        "title": "J'étais pas toute...",
+        "character": "Giselle",
+        "description": "J'étais pas toute...",
+        "file": "39_j'etais_pas_toute.mp3"
+    },
+    {
+        "title": "J'avais pas toujours trouvé moi",
+        "character": "Giselle",
+        "description": "J'avais pas toujours trouvé moi",
+        "file": "40_j'avais_pas_toujours_trouve_moi.mp3"
+    },
+    {
+        "title": "Ah bon ?!",
+        "character": "Lagaf",
+        "description": "Ah bon ?!",
+        "file": "41_ah_bon.mp3"
+    },
+    {
+        "title": "Bah non mais j'avais mis Picon moi",
+        "character": "Giselle",
+        "description": "Bah non mais j'avais mis Picon moi",
+        "file": "42_bah_non_moi_j'avais_mis_picon_moi.mp3"
+    },
+    {
+        "title": "Bon Giselle faut y aller maintenant",
+        "character": "Lagaf",
+        "description": "Bon Giselle faut y aller maintenant",
+        "file": "43_bon_giselle_faut_y_aller_maintenant_je_suis_obliger_d'interrompre_cette_recreation.mp3"
+    },
+    {
+        "title": "Est-ce que vous avez la réponse ?",
+        "character": "Lagaf",
+        "description": "Est-ce que vous avez la réponse ?",
+        "file": "44_est_ce_que_vous_avez_la_reponse.mp3"
+    },
+    {
+        "title": "Hey Lagaf",
+        "character": "Giselle",
+        "description": "Hey Lagaf",
+        "file": "45_hey_lagaffe.mp3"
+    },
+    {
+        "title": "Petite rivière",
+        "character": "Giselle",
+        "description": "Petite rivière",
+        "file": "46_petite_riviere.mp3"
+    },
+    {
+        "title": "Rien compris",
+        "character": "Lagaf",
+        "description": "Rien compris",
+        "file": "47_rien_compris.mp3"
+    },
+    {
+        "title": "Ah ! Une petite rivière",
+        "character": "Lagaf",
+        "description": "Ah ! Une petite rivière",
+        "file": "48_ah_une_petite_riviere.mp3"
+    },
+    {
+        "title": "Et oui ! Et non...",
+        "character": "Lagaf",
+        "description": "Et oui ! Et non...",
+        "file": "49_he_oui_he_non.mp3"
+    },
+    {
+        "title": "Et non",
+        "character": "Giselle",
+        "description": "Et non",
+        "file": "50_he_non.mp3"
+    },
+    {
+        "title": "Non c'est pas ça",
+        "character": "Lagaf",
+        "description": "Non c'est pas ça",
+        "file": "51_non_c'est_pas_ca.mp3"
+    },
+    {
+        "title": "C'est pas une petite rivière",
+        "character": "Lagaf",
+        "description": "C'est pas une petite rivière",
+        "file": "52_c'est_pas_une_petite_riviere.mp3"
+    },
+    {
+        "title": "Ah non, ah non",
+        "character": "Giselle",
+        "description": "Ah non, ah non",
+        "file": "53_ah_non_ah_non.mp3"
+    },
+    {
+        "title": "Euh... C'est quoi alors ?",
+        "character": "Giselle",
+        "description": "Euh... C'est quoi alors ?",
+        "file": "54_euh_c'est_quoi_alors.mp3"
+    },
+    {
+        "title": "Hé beh",
+        "character": "Lagaf",
+        "description": "Hé beh",
+        "file": "55_he_beh.mp3"
+    },
+    {
+        "title": "Ouais",
+        "character": "Giselle",
+        "description": "Ouais",
+        "file": "56_ouais.mp3"
+    },
+    {
+        "title": "Alors j'vais vous donner la réponse",
+        "character": "Lagaf",
+        "description": "Alors j'vais vous donner la réponse",
+        "file": "57_alors_j'vais_vous_donner_la_reponse.mp3"
+    },
+    {
+        "title": "Euh... La réponse était",
+        "character": "Lagaf",
+        "description": "Euh... La réponse était",
+        "file": "58_euh_la_reponse_etait.mp3"
+    },
+    {
+        "title": "Un cheval noir qui me dit mon fils",
+        "character": "Giselle",
+        "description": "Un cheval noir qui me dit mon fils",
+        "file": "59_un_cheval_noir_qui_me_dit_mon_fils.mp3"
+    },
+    {
+        "title": "Pardon ?",
+        "character": "Lagaf",
+        "description": "Pardon ?",
+        "file": "60_pardon.mp3"
+    },
+    {
+        "title": "Un cheval noir",
+        "character": "Giselle",
+        "description": "Un cheval noir",
+        "file": "61_un_cheval_noir.mp3"
+    },
+    {
+        "title": "Elephant rose",
+        "character": "Lagaf",
+        "description": "Elephant rose",
+        "file": "62_normalement_dans_quelques_secondes_ya_un_elephant_rose_qui_passe.mp3"
+    },
+    {
+        "title": "Animateur en rose",
+        "character": "Lagaf",
+        "description": "Z'avez déjà l'animateur en rose",
+        "file": "63_z'avez_deja_l'animateur_en_rose.mp3"
+    },
+        {
+        "title": "Un visage rubicon c'est un visage...",
+        "character": "Lagaf",
+        "description": "Un visage rubicon c'est un visage...",
+        "file": "64_un_visage_rubicon_c'est_un_visage_qui_est_rouge.mp3"
+    },
+    {
+        "title": "Ohhhhhhh",
+        "character": "Giselle",
+        "description": "Ohhhhhhh",
+        "file": "65_ohhh.mp3"
+    },
+    {
+        "title": "Et ouais",
+        "character": "Lagaf",
+        "description": "Et ouais",
+        "file": "66_he_ouais.mp3"
+    },
+    {
+        "title": "Giselle je vous souhaite...",
+        "character": "Lagaf",
+        "description": "Giselle je vous souhaite...",
+        "file": "67_giselle_je_vous_souhaite_une_excellente_soiree_on_a_passe_un_tres_bon_moment_avec_vous.mp3"
+    },
+    {
+        "title": "Avec vous aussi... Formidable",
+        "character": "Giselle",
+        "description": "Avec vous aussi... Formidable",
+        "file": "68_avec_vous_aussi_formidable.mp3"
+    },
+    {
+        "title": "Au revoir Giselle",
+        "character": "Lagaf",
+        "description": "Au revoir Giselle",
+        "file": "69_embrassez_votre_fils_pour_nous_et_a_bientot_au_revoir_giselle.mp3"
     }
 ]
