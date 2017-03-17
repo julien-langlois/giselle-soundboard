@@ -9,7 +9,7 @@ define("models/sound",  function(require) {
         defaults: {
             title: "",
             character: "",
-            episode: "",
+            description: "",
             file: "",
             playing: false,
             selected: false
@@ -34,7 +34,7 @@ define("models/sound",  function(require) {
             this.set("playing", false);
         },
         getSoundDetail: function() {
-            return this.get("character")+", "+this.get("episode");
+            return this.get("character")+", "+this.get("description");
         },
         getSlug: function() {
             return this.get("file").slice(0, this.get("file").lastIndexOf('.'));

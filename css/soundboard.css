@@ -1,0 +1,9 @@
+div.Giselle a.btn-play, div.Giselle + a.btn-share {
+  background: #ce9e25;
+  border-bottom: 3px solid #ba9225;
+}
+
+div.Lagaf a.btn-play, div.Lagaf + a.btn-share {
+  background: #71a321;
+  border-bottom: 3px solid #3f5b11;  
+}
