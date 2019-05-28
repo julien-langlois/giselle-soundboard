@@ -22,7 +22,7 @@
   "homepage": "https://github.com/2ec0b4/kaamelott-soundboard#readme",
   "devDependencies": {
     "del": "^2.2.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-cssnano": "^2.1.2",
     "gulp-rev": "^7.0.0",
     "gulp-rev-all": "^0.8.24",
